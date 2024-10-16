@@ -1,0 +1,4 @@
+project_name: libexif
+static_lib_name: libexif.a
+dyn_lib_name: libexif.so
+

@@ -1,0 +1,6 @@
+project_name: libcups
+static_lib_name: libcups3.a
+dyn_lib_name: libcups.so
+ban: 
+extra_c_flags: 
+fuzz_fork: true

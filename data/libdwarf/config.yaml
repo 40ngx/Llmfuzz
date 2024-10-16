@@ -1,0 +1,6 @@
+project_name: libdwarf
+static_lib_name: libdwarf.a
+dyn_lib_name: libdwarf.so
+ban: 
+extra_c_flags: 
+fuzz_fork: true
